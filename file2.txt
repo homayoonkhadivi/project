@@ -6,4 +6,8 @@ dfdsfsdfd
 =======
 
 Homayoon is going to a new job 
+<<<<<<< Updated upstream
 >>>>>>> master
+=======
+sadasdasd
+>>>>>>> Stashed changes
